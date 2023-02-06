@@ -1,0 +1,21 @@
+/* CSS Document */
+#p9{height:900px;width:100%;background-color:#f2f2f2;}
+#p2{height:100px;width:100%;float:up;color:#fcfdfd;font-size:50px;background-color:#1f7898;border:groove;}
+#p6{height:43px;width:100%;float:down;margin-bottom:0px;border:groove;}
+#p3{height:250px;width:100%;border:groove;}
+.p4 {height:250px;width:60%;float:left;}
+.p5 {height:250px;width:40%;float:left;}
+#p01{height:190px;width:100%;background-color:#f2f2f3;margin-bottom:0px;border:groove;}
+.pp1{height:190px;width:49%;float:left;border:groove;}
+.pp2{height:190px;width:50%;float:left;border:groove;}
+#p06{height:200px;width:100%;background-color:#f2f2f3;margin-top:0px;border:groove;}
+.p444 {height:100px;width:33.33%;float:left;background-color:#616161;border:hidden;}
+.p555 {height:100px;width:33.33%;float:left;background-color:#616161;}
+.p666 {height:100px;width:33.33%;float:left;background-color:#616161;}
+#p11{height:100px;width:100%;background-color:#1f7898;border:groove;}
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
