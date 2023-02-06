@@ -1,0 +1,10 @@
+<?php
+	session_start();
+		$session=$_SESSION['S_NO'];
+			if($session=="")
+			{
+				header('location:s_homepage1.php');	
+			}
+		session_destroy();
+		header('location:s_homepage1.php');
+?>
